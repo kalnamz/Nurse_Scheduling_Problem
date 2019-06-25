@@ -1,0 +1,242 @@
+  Successfully connected to the Database.
+
+
+           Report of Employee happiness rating [0-1] : 
+
+|    FIRST NAME        | LAST NAME   |   HAPPINESS RATING |
+|    Evelyn        | Bennett  |  0.75  | 
+|    Louis        | Campbell  |  0.90  | 
+|    Shawn        | Cox  |  0.88  | 
+|    Harry        | Thompson  |  0.50  | 
+|    Amanda        | Hill  |  0.80  | 
+|    Lisa        | Lee  |  0.70  | 
+|    Patrick        | Brown  |  0.67  | 
+|    Terry        | Mitchell  |  0.50  | 
+|    Ruth        | Wright  |  0.75  | 
+|    Janet        | Ward  |  0.67  | 
+|    Linda        | Nelson  |  0.80  | 
+|    Marilyn        | Gray  |  0.67  | 
+|    Ruby        | Walker  |  0.70  | 
+|    Helen        | Jackson  |  0.75  | 
+|    Doris        | Butler  |  0.90  | 
+|    Maria        | Ramirez  |  0.60  | 
+|    Jason        | Murphy  |  0.75  | 
+|    Dorothy        | Turner  |  0.83  | 
+|    Bobby        | Diaz  |  0.90  | 
+|    Ronald        | Jones  |  0.57  | 
+|    Michael        | Brooks  |  0.60  | 
+|    Pamela        | Rogers  |  0.50  | 
+|    Ann        | Wilson  |  0.67  | 
+|    Joyce        | Collins  |  0.86  | 
+|    Wanda        | Torres  |  0.33  | 
+|    Bonnie        | Russell  |  0.17  | 
+|    Ashley        | Rivera  |  0.88  | 
+|    Anna        | Cooper  |  0.86  | 
+|    Carol        | Perez  |  0.90  | 
+|    Jesse        | Scott  |  0.67  | 
+|    Robert        | Johnson  |  0.70  | 
+|    Norma        | Allen  |  0.63  | 
+|    Deborah        | King  |  0.67  | 
+|    Richard        | Young  |  0.90  | 
+|    Scott        | Robinson  |  0.67  | 
+|    Dennis        | Powell  |  0.90  | 
+|    Douglas        | Evans  |  0.33  | 
+|    Harold        | Parker  |  0.80  | 
+|    Christopher        | Carter  |  0.40  | 
+|    Fred        | Jenkins  |  0.70  | 
+|    David        | Gonzalez  |  0.75  | 
+|    Juan        | Clark  |  0.17  | 
+|    Julie        | Stewart  |  0.71  | 
+|    Ryan        | Price  |  0.43  | 
+|    Jimmy        | Howard  |  0.90  | 
+|    Annie        | Hall  |  0.67  | 
+|    Tina        | Morgan  |  0.90  | 
+|    Theresa        | Harris  |  0.86  | 
+|    Sean        | Baker  |  0.86  | 
+|    Joshua        | Rodriguez  |  0.33  | 
+|    Kathy        | Lopez  |  0.90  | 
+|    Sarah        | Martin  |  0.83  | 
+|    Victor        | Bryant  |  0.75  | 
+|    Stephen        | Green  |  0.89  | 
+|    Jeremy        | Flores  |  0.67  | 
+|    Alonzo        | Gonzales  |  0.80  | 
+|    Merle        | Grant  |  0.83  | 
+|    Gordon        | Mills  |  0.50  | 
+|    George        | Bowen  |  0.71  | 
+|    Tommie        | Jimenez  |  0.90  | 
+|    Henrietta        | Banks  |  0.80  | 
+|    Clarence        | Ross  |  0.80  | 
+|    Shari        | Bishop  |  0.60  | 
+|    Rick        | Vaughn  |  0.75  | 
+|    Denise        | Lopez  |  0.13  | 
+|    Frederick        | Cruz  |  0.56  | 
+|    Ian        | Fletcher  |  0.50  | 
+|    Kari        | Hampton  |  0.80  | 
+|    Cora        | Manning  |  0.80  | 
+|    Vera        | Copeland  |  0.80  | 
+|    Ramona        | Sullivan  |  0.20  | 
+|    Bertha        | Rivera  |  0.80  | 
+|    Shaun        | Waters  |  0.67  | 
+|    Pedro        | Mclaughlin  |  0.50  | 
+|    Gilbert        | Hogan  |  0.80  | 
+|    Orlando        | Morris  |  0.40  | 
+|    Constance        | Underwood  |  0.80  | 
+|    Caroline        | Greene  |  0.38  | 
+|    Gloria        | Oliver  |  0.90  | 
+|    Russell        | Powell  |  0.50  | 
+|    Geoffrey        | Marsh  |  0.14  | 
+|    Emily        | Love  |  0.40  | 
+|    Marguerite        | Fuller  |  0.88  | 
+|    Sadie        | Buchanan  |  0.29  | 
+|    Frank        | Cummings  |  0.80  | 
+|    Jenny        | Carter  |  0.67  | 
+|    Jeannie        | Webb  |  0.80  | 
+|    Nicolas        | Mccormick  |  0.67  | 
+|    Frank        | Washington  |  0.50  | 
+|    Brandon        | Foster  |  0.50  | 
+|    Marie        | Sanders  |  0.50  | 
+|    Antoinette        | Mckenzie  |  0.50  | 
+|    Lindsay        | Harmon  |  0.50  | 
+
+Total Scheduling Cost : |    $ 309888.46    |
+
+ 
+Total Unused shifts for Full - time employees :  158  
+
+ 
+Total Unused shifts for Part - time employees :  64  
+
+           Report of Unfulfilled Needs : 
+
+|    DEPARTMENT        | DATE   |   SHIFT   |   EMPLOYEE TYPE  |  NEEDS TO BE FULFILLED   |
+|    ICU        | 2019-01-11  |  7:00 AM  |   NA  |  1    |
+|    ER        | 2019-01-04  |  7:00 AM  |   PHLEB  |  1    |
+|    MAT        | 2018-12-31  |  7:00 AM  |   PHLEB  |  2    |
+|    MAT        | 2019-01-01  |  7:00 AM  |   PHLEB  |  2    |
+|    MAT        | 2019-01-03  |  7:00 AM  |   PHLEB  |  1    |
+|    MAT        | 2019-01-11  |  7:00 AM  |   PHLEB  |  1    |
+|    MAT        | 2019-01-12  |  7:00 AM  |   PHLEB  |  1    |
+|    MAT        | 2019-01-13  |  7:00 AM  |   PHLEB  |  1    |
+|    SUR        | 2019-01-03  |  7:00 AM  |   PHLEB  |  1    |
+|    SUR        | 2019-01-09  |  7:00 AM  |   PHLEB  |  2    |
+|    SUR        | 2019-01-12  |  7:00 AM  |   PHLEB  |  2    |
+|    ONC        | 2018-12-31  |  7:00 AM  |   PHLEB  |  2    |
+|    ONC        | 2019-01-01  |  7:00 AM  |   PHLEB  |  1    |
+|    ONC        | 2019-01-03  |  7:00 AM  |   PHLEB  |  1    |
+|    ONC        | 2019-01-04  |  7:00 AM  |   PHLEB  |  1    |
+|    ONC        | 2019-01-05  |  7:00 AM  |   PHLEB  |  2    |
+|    PED        | 2019-01-06  |  7:00 AM  |   RN  |  2    |
+|    PED        | 2019-01-13  |  7:00 AM  |   RN  |  1    |
+|    ONC        | 2019-01-06  |  7:00 AM  |   RN  |  4    |
+|    ONC        | 2019-01-07  |  7:00 AM  |   RN  |  1    |
+|    ONC        | 2019-01-08  |  7:00 AM  |   RN  |  1    |
+|    ONC        | 2019-01-09  |  7:00 AM  |   RN  |  1    |
+|    ONC        | 2019-01-10  |  7:00 AM  |   RN  |  4    |
+|    ONC        | 2019-01-11  |  7:00 AM  |   RN  |  4    |
+|    ONC        | 2019-01-12  |  7:00 AM  |   RN  |  2    |
+|    ONC        | 2019-01-13  |  7:00 AM  |   RN  |  4    |
+|    ICU        | 2019-01-01  |  7:00 AM  |   RN  |  1    |
+|    ICU        | 2019-01-03  |  7:00 AM  |   RN  |  2    |
+|    ICU        | 2019-01-05  |  7:00 AM  |   RN  |  3    |
+|    ICU        | 2019-01-06  |  7:00 AM  |   RN  |  6    |
+|    ICU        | 2019-01-13  |  7:00 AM  |   RN  |  2    |
+|    ER        | 2019-01-01  |  7:00 AM  |   LPN  |  2    |
+|    ONC        | 2019-01-05  |  7:00 AM  |   LPN  |  2    |
+|    ONC        | 2019-01-06  |  7:00 AM  |   LPN  |  1    |
+|    ICU        | 2019-01-06  |  7:00 AM  |   LPN  |  1    |
+|    ICU        | 2019-01-10  |  7:00 AM  |   ULTRA  |  1    |
+|    ICU        | 2019-01-05  |  7:00 AM  |   XRAY  |  1    |
+|    MAT        | 2019-01-13  |  3:00 PM  |   NA  |  1    |
+|    ER        | 2018-12-31  |  3:00 PM  |   PHLEB  |  1    |
+|    ER        | 2019-01-01  |  3:00 PM  |   PHLEB  |  1    |
+|    ER        | 2019-01-04  |  3:00 PM  |   PHLEB  |  1    |
+|    ER        | 2019-01-09  |  3:00 PM  |   PHLEB  |  1    |
+|    ER        | 2019-01-13  |  3:00 PM  |   PHLEB  |  2    |
+|    MAT        | 2019-01-01  |  3:00 PM  |   PHLEB  |  1    |
+|    MAT        | 2019-01-02  |  3:00 PM  |   PHLEB  |  1    |
+|    MAT        | 2019-01-07  |  3:00 PM  |   PHLEB  |  2    |
+|    MAT        | 2019-01-11  |  3:00 PM  |   PHLEB  |  1    |
+|    SUR        | 2019-01-10  |  3:00 PM  |   PHLEB  |  1    |
+|    ONC        | 2019-01-02  |  3:00 PM  |   PHLEB  |  1    |
+|    ONC        | 2019-01-05  |  3:00 PM  |   PHLEB  |  1    |
+|    ONC        | 2019-01-10  |  3:00 PM  |   PHLEB  |  2    |
+|    ONC        | 2019-01-12  |  3:00 PM  |   PHLEB  |  1    |
+|    MAT        | 2019-01-06  |  3:00 PM  |   RN  |  1    |
+|    OBS        | 2019-01-05  |  3:00 PM  |   RN  |  1    |
+|    OBS        | 2019-01-06  |  3:00 PM  |   RN  |  3    |
+|    PED        | 2018-12-31  |  3:00 PM  |   RN  |  1    |
+|    PED        | 2019-01-03  |  3:00 PM  |   RN  |  2    |
+|    PED        | 2019-01-05  |  3:00 PM  |   RN  |  3    |
+|    PED        | 2019-01-13  |  3:00 PM  |   RN  |  2    |
+|    ONC        | 2019-01-03  |  3:00 PM  |   RN  |  1    |
+|    ONC        | 2019-01-07  |  3:00 PM  |   RN  |  4    |
+|    ONC        | 2019-01-08  |  3:00 PM  |   RN  |  2    |
+|    ONC        | 2019-01-10  |  3:00 PM  |   RN  |  2    |
+|    ONC        | 2019-01-11  |  3:00 PM  |   RN  |  3    |
+|    ICU        | 2019-01-03  |  3:00 PM  |   RN  |  1    |
+|    ICU        | 2019-01-05  |  3:00 PM  |   RN  |  2    |
+|    ICU        | 2019-01-06  |  3:00 PM  |   RN  |  2    |
+|    ICU        | 2019-01-11  |  3:00 PM  |   RN  |  2    |
+|    ER        | 2019-01-05  |  3:00 PM  |   LPN  |  1    |
+|    ONC        | 2019-01-06  |  3:00 PM  |   LPN  |  1    |
+|    ICU        | 2019-01-06  |  3:00 PM  |   LPN  |  3    |
+|    ICU        | 2019-01-13  |  3:00 PM  |   LPN  |  2    |
+|    PED        | 2019-01-11  |  3:00 PM  |   XRAY  |  1    |
+|    PED        | 2019-01-12  |  3:00 PM  |   XRAY  |  1    |
+|    PED        | 2018-12-31  |  11:00 PM  |   NA  |  1    |
+|    PED        | 2019-01-02  |  11:00 PM  |   NA  |  1    |
+|    PED        | 2019-01-04  |  11:00 PM  |   NA  |  1    |
+|    PED        | 2019-01-05  |  11:00 PM  |   NA  |  1    |
+|    PED        | 2019-01-06  |  11:00 PM  |   NA  |  1    |
+|    PED        | 2019-01-12  |  11:00 PM  |   NA  |  1    |
+|    ER        | 2019-01-02  |  11:00 PM  |   PHLEB  |  1    |
+|    ER        | 2019-01-05  |  11:00 PM  |   PHLEB  |  1    |
+|    ER        | 2019-01-09  |  11:00 PM  |   PHLEB  |  1    |
+|    ER        | 2019-01-12  |  11:00 PM  |   PHLEB  |  2    |
+|    MAT        | 2019-01-06  |  11:00 PM  |   PHLEB  |  1    |
+|    SUR        | 2019-01-01  |  11:00 PM  |   PHLEB  |  1    |
+|    PED        | 2019-01-13  |  11:00 PM  |   PHLEB  |  1    |
+|    ONC        | 2018-12-31  |  11:00 PM  |   PHLEB  |  1    |
+|    ONC        | 2019-01-02  |  11:00 PM  |   PHLEB  |  1    |
+|    ONC        | 2019-01-11  |  11:00 PM  |   PHLEB  |  1    |
+|    ONC        | 2019-01-13  |  11:00 PM  |   PHLEB  |  1    |
+|    MORG        | 2018-12-31  |  11:00 PM  |   RN  |  1    |
+|    MORG        | 2019-01-01  |  11:00 PM  |   RN  |  1    |
+|    PED        | 2019-01-06  |  11:00 PM  |   RN  |  4    |
+|    ONC        | 2018-12-31  |  11:00 PM  |   RN  |  1    |
+|    ONC        | 2019-01-02  |  11:00 PM  |   RN  |  1    |
+|    ONC        | 2019-01-05  |  11:00 PM  |   RN  |  4    |
+|    ONC        | 2019-01-07  |  11:00 PM  |   RN  |  3    |
+|    ONC        | 2019-01-11  |  11:00 PM  |   RN  |  1    |
+|    ONC        | 2019-01-12  |  11:00 PM  |   RN  |  4    |
+|    ONC        | 2019-01-13  |  11:00 PM  |   RN  |  2    |
+|    ICU        | 2018-12-31  |  11:00 PM  |   RN  |  1    |
+|    ICU        | 2019-01-05  |  11:00 PM  |   RN  |  1    |
+|    ICU        | 2019-01-06  |  11:00 PM  |   RN  |  2    |
+|    OBS        | 2019-01-06  |  11:00 PM  |   LPN  |  1    |
+|    PED        | 2019-01-05  |  11:00 PM  |   LPN  |  2    |
+|    PED        | 2019-01-06  |  11:00 PM  |   LPN  |  2    |
+|    PED        | 2019-01-12  |  11:00 PM  |   LPN  |  2    |
+|    ONC        | 2019-01-02  |  11:00 PM  |   LPN  |  1    |
+|    ONC        | 2019-01-06  |  11:00 PM  |   LPN  |  2    |
+|    ICU        | 2019-01-03  |  11:00 PM  |   LPN  |  2    |
+|    ICU        | 2019-01-05  |  11:00 PM  |   LPN  |  1    |
+|    ICU        | 2019-01-06  |  11:00 PM  |   LPN  |  2    |
+|    ICU        | 2019-01-07  |  11:00 PM  |   LPN  |  1    |
+|    ICU        | 2019-01-08  |  11:00 PM  |   LPN  |  1    |
+|    SUR        | 2019-01-01  |  11:00 PM  |   XRAY  |  1    |
+|    PED        | 2019-01-03  |  11:00 PM  |   XRAY  |  1    |
+|    PED        | 2019-01-06  |  11:00 PM  |   XRAY  |  1    |
+|    PED        | 2019-01-09  |  11:00 PM  |   XRAY  |  1    |
+|    PED        | 2019-01-11  |  11:00 PM  |   XRAY  |  1    |
+|    ICU        | 2019-01-12  |  11:00 PM  |   XRAY  |  1    |
+
+ 
+Total Utilization for Full - time employees :  86.00 % 
+
+ 
+Total Utilization for  Part - time employees :  40.00 % 
+
+ Successfully closed the connection to the Database.
+
+ 

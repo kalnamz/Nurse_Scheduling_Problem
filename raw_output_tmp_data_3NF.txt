@@ -1,0 +1,68 @@
+cse-p204inst04.cse.psu.edu 123% php load_tmp_tbl_data.php
+  Successfully connected to the Database.
+
+
+ Successfully created temporary tables - tmp_emp, tmp_needs and tmp_days_off.
+
+
+ Successfully loaded data from employee_final.csv into temporary table-  tmp_emp.
+
+
+ Successfully loaded data from daysoffrequests_final.csv into temporary table-  tmp_days_off.
+
+
+ Successfully loaded data from needs_final.csv into temporary table-  tmp_needs.
+
+
+ Formatting tmp_days_off.
+
+
+ Successfully formatted tmp_days_off.
+
+
+ Formatting tmp_emp.
+
+
+ Successfully formatted tmp_emp.
+
+
+ Successfully closed the connection to the Database.
+
+
+
+ cse-p204inst04.cse.psu.edu 126% php load_3NF.php
+  Successfully connected to the Database.
+
+
+ Loading data into the Tables in 3rd Normal form.
+
+
+ Successfully altered tmp_emp, added empid column.
+
+ Successfully inserted data into shifts table.
+ Successfully inserted data into emp_type table.
+
+ Successfully inserted data into phone_types table.
+
+ Successfully inserted data into emp_phones table.
+
+ Successfully inserted data into employees table.
+
+ Successfully inserted data into departments table.
+
+ Successfully inserted data into emp_cert table.
+
+
+ Successfully inserted data into emp_days_off_requests table.
+
+ Successfully inserted data into needs table.
+
+
+ All the data has been entered into the tables in 3NF.
+
+
+ Successfully closed the connection to the Database.
+
+
+cse-p204inst04.cse.psu.edu 127%
+
